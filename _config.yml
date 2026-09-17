@@ -9,8 +9,8 @@
 title                    : "Zeguan Xiao (肖泽管)"
 description              : "Ph.D. in Management Science and Engineering · LLM Safety, Alignment, Robustness & Unlearning"
 url                      : "https://ZeguanXiao.github.io"
-baseurl                  : "/xzg-personal-homepage"
-repository               : "ZeguanXiao/xzg-personal-homepage"
+baseurl                  : ""
+repository               : "ZeguanXiao/ZeguanXiao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
